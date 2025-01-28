@@ -1,1 +1,1 @@
-### Este repositório foi criado para ser um sistema do app. Se você copiar isso não irá funcionar em qualquer outro repositório!
+### This repository was created to be a system app. If you copy this it will not work in any other repository!
